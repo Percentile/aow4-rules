@@ -26,9 +26,9 @@
 
 ## <a id="t1">1. Определения</a>  
 Игрок А - игрок атакующий  
-    Сторона А - один или более атакующих игроков, находящихся в команде
+- Сторона А - один или более атакующих игроков, находящихся в команде
 Игрок Б - игрок защищающийся  
-    Сторона Б - один или более атакующих игроков, находящихся в команде
+- Сторона Б - один или более атакующих игроков, находящихся в команде
 Стек - набор юнитов, находящийся на одной клетке, армия  
 Разведка - стек, в котором сумма уровней юнитов не превышает 3  
 
@@ -145,9 +145,9 @@ Double slashes (//) indicate a comment.
 
 ## <a id="t1">1. Definitions</a>  
 Player A – attacking player  
-Side A – one or more attacking players on the same team  
+Party A – one or more attacking players on the same team  
 Player B – defending player  
-Side B – one or more defending players on the same team  
+Party B – one or more defending players on the same team  
 Stack – a set of units located on a single tile; an army  
 Scout – a stack where the sum of unit levels does not exceed 3  
 
