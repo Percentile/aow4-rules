@@ -123,17 +123,17 @@
 
 ### Contents  
 
-[0. Foreword](#t0)  
-[1. Definitions](#t1)  
-[2. *Rules on aggressive actions](#t2)  
-[3. *Rule on declaration](#t3)  
-[4. Rule on heroes in battle:](#t4)  
-[5. Rule on hero farming abuse:](#t5)  
-[6. #Rule on 5 units:](#t6)  
-[7. #Banned spells from *Empires & Ashes*:](#t7)  
-[8. Rule on replaying turns](#t8)  
-[9. Rule on blocking passage](#t9)  
-[*Additions:](#td)  
+[0. Foreword](#te0)  
+[1. Definitions](#te1)  
+[2. *Rules on aggressive actions](#te2)  
+[3. *Rule on declaration](#te3)  
+[4. Rule on heroes in battle](#te4)  
+[5. Rule on hero farming abuse](#te5)  
+[6. #Rule on 5 units](#te6)  
+[7. #Banned spells from Shadowed Isles](#te7)  
+[8. Rule on replaying turns](#te8)  
+[9. Rule on blocking passage](#te9)  
+[*Additions](#ted)  
 
 ## <a id="t0">0. Foreword</a>  
 Any rule may be modified or disregarded by prior agreement among the players.  
@@ -143,7 +143,7 @@ An asterisk (*) indicates the existence of additions to the rule.
 A hash symbol (#) indicates that the rule is optional.  
 Double slashes (//) indicate a comment.  
 
-## <a id="t1">1. Definitions</a>  
+## <a id="te1">1. Definitions</a>  
 Player A – attacking player  
 Party A – one or more attacking players on the same team  
 Player B – defending player  
@@ -174,13 +174,13 @@ Battle side – one or more players whose stacks are participating in a battle a
 Replay – replaying a battle with manual control after a defeat against the AI.  
 Terrain spells – spells that alter the province's landscape when cast.  
 
-## <a id="t2">2. *Rules on aggressive actions</a>  
+## <a id="te2">2. *Rules on aggressive actions</a>  
 All aggressive actions are permitted only during the final 2 minutes of the timer.  
 All raiding actions are prohibited during the final minute of the timer.  
 Attacking a scouting unit during a raid is permitted at any point during the timer.  
 Attacks on scouting units are resolved via auto-combat.  
 
-## <a id="t3">3. *Declaration rule</a>  
+## <a id="te3">3. *Declaration rule</a>  
 Attacking a stack is initiated via a declaration:  
 Party A attacks Party B’s stack (hereinafter Stack B) with its own stack (hereinafter Stack A) to trigger the battle dialog window. The timer pauses. From this moment on, the battle cannot be cancelled.  
 Stack A and Stack B cannot be moved. Adding units is permitted.  
@@ -193,43 +193,43 @@ Once Party B has finished casting, Party A casts all its spells.
 When both parties are ready, Party A attacks Stack B with Stack A and selects manual combat.  
 The declaration concludes when the battle ends.  
 
-## <a id="t4">4. Battle Hero Rule:</a>  
+## <a id="te4">4. Battle Hero Rule:</a>  
 In a battle, the maximum number of heroes allowed for either side is 4.  
 A Godir counts as a hero.  
 
-## <a id="t5">5. Hero-farming abuse rule:</a>  
+## <a id="te5">5. Hero-farming abuse rule:</a>  
 Suppose there is an independent City F that is at war with Player A.  
 As a result of the war, Player A captures a hero belonging to City F.  
 Upon releasing the hero belonging to City F, Player A is prohibited from participating in any battle against City F that involves the released hero for a period of 10 turns following the release.  
 
-## <a id="t6">6. #5-Unit Rule:</a>  
+## <a id="te6">6. #5-Unit Rule:</a>  
 Neither side in a battle may field more than 5 units of the same troop type.  
 The armies of the battling sides cannot contain more than 5 Skirmishers, 5 Fighters, 5 Magic Fighters, 5 Ranged units, 5 Shield units, 5 Shock units, 5 Support units, 5 Battle Mages, or 5 Mythic units.  
 Mythic units are considered a separate troop type regardless of their specific characteristics.  
 
-## <a id="t7">7. #Forbidden Spells from the Shadowed Isles:</a>  
+## <a id="te7">7. #Forbidden Spells from the Shadowed Isles:</a>  
 Frikka's Revelation  
 Yaki's Feline Nature  
 Tsinren's Temptation  
 Zeytil's Gardens of Paradise  
 - Forbidden because, if the player who cast the spell surrenders, the game breaks irreversibly with no option to undo the turn.  
 
-## <a id="t8">8. Replay Rule</a>  
+## <a id="te8">8. Replay Rule</a>  
 For games with 2 to 4 players, each player is allowed 1 replay.  
 For games with 5 or more players, replays are prohibited.  
 
-## <a id="t9">9. Passage Blocking Rule</a>  
+## <a id="te9">9. Passage Blocking Rule</a>  
 // Rule applies to games with more than 2 players  
 Assume Player 1 and Player 2 are not at war.  
 If Player 2's troops block a passage between map layers, Player 1 has the right to demand the passage be cleared.  
 Player 2 must clear the passage promptly; if moving the troops is impossible, Player 2 must clear the passage by any available means on the following turn.  
 
-## <a id="td">*Additions:</a>  
+## <a id="ted">*Additions:</a>  
 
-### [2. *Rules on Aggressive Actions](#t2)  
+### [2. *Rules on Aggressive Actions](#te2)  
 In the event of a player reconnecting, the lower of the two timers (Player A's or Player B's) is used.  
 
-### [3. *Declaration Rule](#t3)  
+### [3. *Declaration Rule](#te3)  
 // Rules against abusing underground passages and narrow spaces  
 If a passage is blocked by a stack belonging to Player A or Player B, the owner of the blocking stack is required to move any stacks necessary to clear the passage.   
 If it is impossible to move the units blocking the path, the battle is postponed to the next turn, and this action cannot be cancelled.  
