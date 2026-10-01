@@ -1,4 +1,4 @@
-# Правила игры в Age of Wonders 4 [RbbP](https://steamcommunity.com/sharedfiles/filedetails/?id=3491829887) от dorofeed.   
+# Правила игры в Age of Wonders 4 [RbbP](https://steamcommunity.com/sharedfiles/filedetails/?id=3491829887).   
 #### ver 3  
 // Для игры достаточно правил 2 и 3  
 
